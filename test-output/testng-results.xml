@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-30T04:12:15 BST" name="Default suite" finished-at="2023-07-30T04:12:32 BST" duration-ms="17407">
+    <groups>
+    </groups>
+    <test started-at="2023-07-30T04:12:15 BST" name="Default test" finished-at="2023-07-30T04:12:32 BST" duration-ms="17407">
+      <class name="automationteststore.tests.verifyLinks.tests.linksTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:automationteststore.tests.verifyLinks.tests.linksTest@291b4bf5]" started-at="2023-07-30T04:12:15 BST" name="launchApplication" finished-at="2023-07-30T04:12:29 BST" duration-ms="13974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="links()[pri:0, instance:automationteststore.tests.verifyLinks.tests.linksTest@291b4bf5]" started-at="2023-07-30T04:12:29 BST" name="links" finished-at="2023-07-30T04:12:32 BST" duration-ms="2576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- links -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:automationteststore.tests.verifyLinks.tests.linksTest@291b4bf5]" started-at="2023-07-30T04:12:32 BST" name="tearDown" finished-at="2023-07-30T04:12:32 BST" duration-ms="657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- automationteststore.tests.verifyLinks.tests.linksTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

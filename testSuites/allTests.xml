@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="allTestsSuite" verbose="1" parallel="false" >
+
+<test name="allTests">
+
+<classes>
+<class name="utility.TestConfig" />
+<class name="tests.verifyTitleTest" />
+<class name="tests.verifyLinksTests" />
+<class name="tests.verifyButtonsTests" />
+<class name="tests.verifySearchTests" />
+
+
+</classes>
+
+</test>
+
+
+</suite>
